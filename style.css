@@ -1,0 +1,119 @@
+#heading{
+    text-align: end;
+    font-style: italic;
+    font-family: monospace;
+}
+hr{
+    height: 2px;
+    background-color: rgb(11, 10, 10);
+    border: none;
+}
+
+.newsec-1{
+    height: 100vh;
+    
+}
+.sec-2{
+    height: 100vh;
+   
+}
+
+
+.mani-div{
+    display: grid;
+    margin: 15px;
+    height: 600px;
+    
+    grid-template-columns:600px 890px;
+}
+.gridbox{
+   
+}
+
+#ptag{
+    border: 1px solid red;
+    display: inline;
+    background-color: red;
+    color: white;
+    font-style: italic;
+}
+
+#i-tag{
+width: 900px;
+height: 600px;
+}
+
+.mani1{
+    display: grid;
+    margin: 15px;
+    height: 600px;
+   
+    grid-template-columns:500px 500px 400px;
+    gap: 2rem;
+
+}
+
+.gb1{
+   
+}
+.img-slam{
+    width: 425px;
+    height: 570px;
+}
+
+.newsec-2{
+    height: 1100px;
+    width: 100vw;
+}
+
+.mani2{
+    display: grid;
+    margin: 10px;
+    height: 300px;
+   
+    grid-template-columns:500px 1000px;
+    gap: 2rem;
+
+}
+.gb2{
+
+   
+    
+}
+.img-thrones{
+    width: 990px;
+    height: 292px;
+}
+.mani3{
+    display: grid;
+    margin: 10px;
+    height: 400px;
+   
+    grid-template-columns:400px 400px 650px;
+    gap: 2rem;
+
+}
+.gb3{
+    
+
+}
+.tod-1{
+    border: 1px solid red;
+    display: inline;
+    background-color: red;
+    color: white;
+    font-style: italic;
+}
+h4{
+    text-align: center;
+    color: red;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+.iphone{
+    height: 400px;
+    width: 600px;
+}
+
+
+
